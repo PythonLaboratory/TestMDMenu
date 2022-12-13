@@ -1,0 +1,171 @@
+/files/app/_python_bundle/site-packages/kivymd/__init__.pyc")
+12-13 23:05:51.654   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[Background for -SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:05:51.654   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:05:51.669   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[Background for -SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:05:51.669   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:05:51.686   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[Background for -SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:05:51.687   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:05:51.702   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[Background for -SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:05:51.702   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:05:51.720   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[Background for -SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:05:51.720   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:05:51.736   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[Background for -SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:05:51.736   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:05:51.753   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[Background for -SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:05:51.753   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:05:51.769   942   942 W Layer   : [Bounds for - org.pythonlab.test/org.kivy.android.PythonActivity#0] sync point 5 wait timeout 2124592760 for org.pythonlab.test/org.kivy.android.PythonActivity#0
+12-13 23:05:51.770   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[Background for -SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:05:51.770   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:05:51.787   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[Background for -SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:05:51.787   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:05:51.803   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[Background for -SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:05:51.803   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:05:51.844 10795 10795 W SDLThread: type=1400 audit(0.0:953191): avc: granted { execute } for path="/data/user/0/org.pythonlab.test/files/app/_python_bundle/modules/_datetime.cpython-39.so" dev="sda11" ino=212200 scontext=u:r:untrusted_app_27:s0:c86,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c86,c257,c512,c768 tclass=file app=org.pythonlab.test
+12-13 23:05:51.903   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[Background for -SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:05:51.903   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:05:51.953   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[Background for -SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:05:51.953   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:05:51.971   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[Background for -SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:05:51.971   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:05:52.070   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[Background for -SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:05:52.071   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:05:52.086   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[Background for -SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:05:52.086   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:05:52.138   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:05:52.138   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:03.661  1766  2184 D MIUIInput: [MotionEvent] publisher action=0x0, 321394693, channel '3c709a4 org.pythonlab.test/org.kivy.android.PythonActivity (server)'
+12-13 23:06:03.707  1766  2184 D MIUIInput: [MotionEvent] publisher action=0x1, 321394740, channel '3c709a4 org.pythonlab.test/org.kivy.android.PythonActivity (server)'
+12-13 23:06:03.842  1766  2184 D MIUIInput: [MotionEvent] publisher action=0x0, 321394874, channel '3c709a4 org.pythonlab.test/org.kivy.android.PythonActivity (server)'
+12-13 23:06:03.899  1766  2184 D MIUIInput: [MotionEvent] publisher action=0x1, 321394932, channel '3c709a4 org.pythonlab.test/org.kivy.android.PythonActivity (server)'
+12-13 23:06:08.095  1766  2184 D MIUIInput: [MotionEvent] publisher action=0x0, 321399127, channel '3c709a4 org.pythonlab.test/org.kivy.android.PythonActivity (server)'
+12-13 23:06:08.150  1766  2184 D MIUIInput: [MotionEvent] publisher action=0x1, 321399183, channel '3c709a4 org.pythonlab.test/org.kivy.android.PythonActivity (server)'
+12-13 23:06:08.259  1766  2184 D MIUIInput: [MotionEvent] publisher action=0x0, 321399291, channel '3c709a4 org.pythonlab.test/org.kivy.android.PythonActivity (server)'
+12-13 23:06:08.325  1766  2184 D MIUIInput: [MotionEvent] publisher action=0x1, 321399358, channel '3c709a4 org.pythonlab.test/org.kivy.android.PythonActivity (server)'
+12-13 23:06:11.096  1766  2184 D MIUIInput: [MotionEvent] publisher action=0x0, 321402128, channel '3c709a4 org.pythonlab.test/org.kivy.android.PythonActivity (server)'
+12-13 23:06:11.184  1766  2184 D MIUIInput: [MotionEvent] publisher action=0x1, 321402216, channel '3c709a4 org.pythonlab.test/org.kivy.android.PythonActivity (server)'
+12-13 23:06:11.224   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:11.224   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:11.291   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:11.291   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:11.308   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:11.308   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:11.324   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:11.324   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:11.341   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:11.341   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:11.441   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:11.441   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:11.457   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:11.457   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:11.474   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:11.474   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:11.494   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:11.494   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:11.508   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:11.508   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:11.524   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:11.524   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:11.541   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:11.541   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:11.557   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:11.557   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:11.574   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:11.574   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:11.591   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:11.591   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:11.608   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:11.608   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:11.624   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:11.624   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:11.641   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:11.641   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:11.657   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:11.657   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:11.674   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:11.674   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:17.162  1766  2184 D MIUIInput: [KeyEvent] publisher action:0x0,  keyCode:4 , 321408173,channel '3c709a4 org.pythonlab.test/org.kivy.android.PythonActivity (server)' 
+12-13 23:06:17.213  1766  2184 D MIUIInput: [KeyEvent] publisher action:0x1,  keyCode:4 , 321408243,channel '3c709a4 org.pythonlab.test/org.kivy.android.PythonActivity (server)' 
+12-13 23:06:17.242   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:17.242   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:17.259   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:17.259   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:17.275   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:17.275   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:17.292   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:17.292   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:17.308   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:17.308   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:17.325   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:17.325   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:17.341   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:17.341   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:17.358   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:17.358   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:17.376   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:17.376   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:17.392   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:17.392   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:17.409   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:17.409   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:17.425   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:17.425   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:17.442   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:17.442   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:17.458   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:17.458   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:17.476   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:17.477   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:17.492   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:17.492   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:17.509   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:17.509   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:17.525   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:17.525   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:18.817  1766  2184 D MIUIInput: [MotionEvent] publisher action=0x0, 321409848, channel '3c709a4 org.pythonlab.test/org.kivy.android.PythonActivity (server)'
+12-13 23:06:18.876  1766  2184 D MIUIInput: [MotionEvent] publisher action=0x1, 321409909, channel '3c709a4 org.pythonlab.test/org.kivy.android.PythonActivity (server)'
+12-13 23:06:18.978  1766  2184 D MIUIInput: [MotionEvent] publisher action=0x0, 321410010, channel '3c709a4 org.pythonlab.test/org.kivy.android.PythonActivity (server)'
+12-13 23:06:19.035  1766  2184 D MIUIInput: [MotionEvent] publisher action=0x1, 321410067, channel '3c709a4 org.pythonlab.test/org.kivy.android.PythonActivity (server)'
+12-13 23:06:22.199  1766  2184 D MIUIInput: [MotionEvent] publisher action=0x0, 321413230, channel '3c709a4 org.pythonlab.test/org.kivy.android.PythonActivity (server)'
+12-13 23:06:22.252  1766  2184 D MIUIInput: [MotionEvent] publisher action=0x1, 321413284, channel '3c709a4 org.pythonlab.test/org.kivy.android.PythonActivity (server)'
+12-13 23:06:22.355  1766  2184 D MIUIInput: [MotionEvent] publisher action=0x0, 321413387, channel '3c709a4 org.pythonlab.test/org.kivy.android.PythonActivity (server)'
+12-13 23:06:22.402  1766  2184 D MIUIInput: [MotionEvent] publisher action=0x1, 321413435, channel '3c709a4 org.pythonlab.test/org.kivy.android.PythonActivity (server)'
+12-13 23:06:23.045  1766  2184 D MIUIInput: [MotionEvent] publisher action=0x0, 321414077, channel '3c709a4 org.pythonlab.test/org.kivy.android.PythonActivity (server)'
+12-13 23:06:23.103  1766  2184 D MIUIInput: [MotionEvent] publisher action=0x1, 321414136, channel '3c709a4 org.pythonlab.test/org.kivy.android.PythonActivity (server)'
+12-13 23:06:23.206  1766  2184 D MIUIInput: [MotionEvent] publisher action=0x0, 321414237, channel '3c709a4 org.pythonlab.test/org.kivy.android.PythonActivity (server)'
+12-13 23:06:23.270  1766  2184 D MIUIInput: [MotionEvent] publisher action=0x1, 321414303, channel '3c709a4 org.pythonlab.test/org.kivy.android.PythonActivity (server)'
+12-13 23:06:23.864 11505 11505 F DEBUG   : pid: 10795, tid: 11118, name: SDLThread  >>> org.pythonlab.test <<<
+12-13 23:06:25.861  1766 11510 W ActivityTaskManager:   Force finishing activity org.pythonlab.test/org.kivy.android.PythonActivity
+12-13 23:06:25.910   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:25.910   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:25.927   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:25.927   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:25.928  6863 11194 D PerfEngineController: ForegroundInfo{mForegroundPackageName='com.google.android.packageinstaller', mForegroundUid=10099, mForegroundPid=5641, mLastForegroundPackageName='org.pythonlab.test', mLastForegroundUid=10342, mLastForegroundPid=10795, mMultiWindowForegroundPackageName='null', mMultiWindowForegroundUid=-1, mFlags=0}
+12-13 23:06:25.929  6059  6108 I ProcessMonitor: onForegroundInfoChanged: ForegroundInfo{mForegroundPackageName='com.google.android.packageinstaller', mForegroundUid=10099, mForegroundPid=5641, mLastForegroundPackageName='org.pythonlab.test', mLastForegroundUid=10342, mLastForegroundPid=10795, mMultiWindowForegroundPackageName='null', mMultiWindowForegroundUid=-1, mFlags=0}
+12-13 23:06:25.930  6059  6108 I GameBoosterService: onForegroundInfoChanged: Cur=com.google.android.packageinstaller	 last=org.pythonlab.test
+12-13 23:06:25.932  6059  6108 D GameBoosterService: onGameStatusChange foreground:ForegroundInfo{mForegroundPackageName='com.google.android.packageinstaller', mForegroundUid=10099, mForegroundPid=5641, mLastForegroundPackageName='org.pythonlab.test', mLastForegroundUid=10342, mLastForegroundPid=10795, mMultiWindowForegroundPackageName='null', mMultiWindowForegroundUid=-1, mFlags=0}
+12-13 23:06:25.944   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:25.944   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:25.944  1766  1791 D MIUIInput: [FoucsChange]: Display  0 FocusedWindow From Window{3c709a4 mode=0 rootTaskId=2596 u0 org.pythonlab.test/org.kivy.android.PythonActivity}(1,1)  to null(0,0)
+12-13 23:06:25.962   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:25.962   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:25.978   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:25.978   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:25.993   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:25.993   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:26.011   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:26.011   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:26.027   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:26.027   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:26.043   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:26.043   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:26.060   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:26.060   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:26.077   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:26.077   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:26.089  1766  2873 I ActivityManager: Process org.pythonlab.test (pid 10795) has died: prcp CRE 
+12-13 23:06:26.094   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:26.094   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:26.115   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[SurfaceView - org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217729 miFodLayer 134217728
+12-13 23:06:26.115   942   942 D CompositionEngine: writeOutputDependentGeometryStateToHWC layer[org.pythonlab.test/org.kivy.android.PythonActivity#0] set Z 134217730 miFodLayer 134217728
+12-13 23:06:26.120  1766  2154 I WindowManager: WIN DEATH: Window{3c709a4 mode=0 rootTaskId=2596 u0 org.pythonlab.test/org.kivy.android.PythonActivity}
+12-13 23:06:26.120  1766  2154 W InputDispatcher: Attempted to unregister already unregistered input channel '3c709a4 org.pythonlab.test/org.kivy.android.PythonActivity (server)'
